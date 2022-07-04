@@ -87,3 +87,16 @@ ip
 git branch master
 git checkout master
 git branch
+git branchname
+git branch
+touch file1
+ls
+ec2-user
+sudo su ec2-user
+touch file6
+ls
+git add --all
+git status
+git commit -m "adding file6"
+git status
+git push origin master
